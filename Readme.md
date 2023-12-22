@@ -2,8 +2,7 @@
 
 ## Table of Contents
 
-- [Project Name](#Temperature Control System Arduino Code)
-  - [Description](#description)
+- [Description](#description)
   - [Components](#components)
   - [Functionality](#functionality)
   - [Usage](#usage)
