@@ -1,5 +1,16 @@
 # Temperature Control System Arduino Code
 
+## Table of Contents
+
+- [Project Name](#Temperature Control System Arduino Code)
+  - [Description](#description)
+  - [Components](#components)
+  - [Functionality](#functionality)
+  - [Usage](#usage)
+  - [Website](#website)
+  - [Preview](#preview)
+  - [Code](#code)
+
 ## Description
 
 This Arduino code is for a temperature control system using a temperature sensor, fan, heater, and LEDs. The system reads temperature from an analog sensor, displays it on a 16x2 LCD screen, and controls the fan and heater based on predefined temperature thresholds.
@@ -38,15 +49,6 @@ This Arduino code is for a temperature control system using a temperature sensor
 - Observe the LCD display for real-time temperature information.
 
 This code serves as a foundation for a simple temperature control system and can be extended for various applications, such as climate control in a small enclosure.
-
-## Table of Contents
-
-- [Project Name](#Temperature Control System Arduino Code)
-  - [Description](#description)
-  - [Table of Contents](#table-of-contents)
-  - [Website](#website)
-  - [Preview](#preview)
-  - [Code](#code)
 
 ## Website
 
